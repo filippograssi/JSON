@@ -68,13 +68,10 @@ baseBlocks.push(box);
 
 
 
-//var gltf = "http://localhost/prova/amico2.json";
-//var gltf = "app:///Scripts/prova.json";
-var gltf = "https://raw.githubusercontent.com/filippograssi/Story/main/amico2.json";
-var ra = BABYLON.SceneLoader.Load(gltf);
-//var gltf = "app:///C:\Users\983012\Desktop\BabylonNative\Apps\Playground\Android\app\src\main\assets\Scripts/amico2.json";
-//var gltf = "app:///C:/Users/983012/Desktop/BabylonNative/Apps/Playground/Android/app/src/main/assets/Scripts/amico2.json";
-//var gltf = "file:///Scripts/prova.json";
+
+var gltf = "https://raw.githubusercontent.com/filippograssi/JSON/main/try.json";
+//var gltf = "app:///Scripts/try.json"; 
+
 var xmlHttp = new XMLHttpRequest();
 
 var arrayOfMeshes = [];
@@ -116,7 +113,7 @@ if (this.readyState == xmlHttp.DONE && this.status == 200)
 
       }
 };
-xmlHttp.open("GET", ra, true);
+xmlHttp.open("GET", gltf, true);
 xmlHttp.send();
 
 
@@ -129,12 +126,3 @@ function getRandomInt(min, max) {
 num = Math.random() * (max - min) + min;
 return num;
 }
-
-/*
- canvas.addEventListener('contextmenu', function(e) {
-      if (e.button === 2) {
-       e.preventDefault();
-        return false;
-      }
-  }, false);
-  */
