@@ -121,8 +121,3 @@ CreateInputHandling(scene);
 return scene;
 
 };
-
-function getRandomInt(min, max) {
-num = Math.random() * (max - min) + min;
-return num;
-}
