@@ -1,5 +1,5 @@
 {
-  "directory": "app:///Scripts/mostra/blocks/",
+  "directory": "https://raw.githubusercontent.com/filippograssi/JSON/main/blocks/",
   "remoteUrl": "library.php",
   "blocks": [
     {
