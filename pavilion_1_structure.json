@@ -2,7 +2,7 @@
   "mode": "build",
   "skybox": {
     "enable": true,
-    "directory": "app:///Scripts/mostra/assets/scene/default/",
+    "directory": "assets/scene/default/",
     "prefix": "default"
   },
   "pictureLight": {
