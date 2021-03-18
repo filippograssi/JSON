@@ -3,20 +3,12 @@
   "remoteUrl": "library.php",
   "blocks": [
     {
-      "code": "stand-light",
-      "file": "Faretto.babylon"
-    },
-    {
       "code": "building-wall",
       "file": "Modulo_Cieco.1_2.1.babylon"
     },
     {
       "code": "building-wall-l",
       "file": "Modulo_Angolo.1.babylon"
-    },
-    {
-      "code": "building-wall-window",
-      "file": "modulo_finestra.babylon"
     },
     {
       "code": "building-floor",
