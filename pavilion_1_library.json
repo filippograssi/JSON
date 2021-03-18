@@ -1,0 +1,38 @@
+{
+  "directory": "app:///Scripts/mostra/blocks/",
+  "remoteUrl": "library.php",
+  "blocks": [
+    {
+      "code": "stand-light",
+      "file": "stand-2/Faretto.babylon"
+    },
+    {
+      "code": "stand-wall",
+      "file": "stand-2/tamburato_singolo-100.babylon"
+    },
+    {
+      "code": "stand-wall-l",
+      "file": "stand-2/tamburato_L-50.babylon"
+    },
+    {
+      "code": "building-wall",
+      "file": "building-2/Modulo_Cieco.1_2.1.babylon"
+    },
+    {
+      "code": "building-wall-l",
+      "file": "building-2/Modulo_Angolo.1.babylon"
+    },
+    {
+      "code": "building-wall-window",
+      "file": "building-2/modulo_finestra.babylon"
+    },
+    {
+      "code": "building-floor",
+      "file": "building-2/pavimento.1.babylon"
+    },
+    {
+      "code": "building-roof",
+      "file": "building-2/soffitto_2.1.babylon"
+    }
+  ]
+}

@@ -1,0 +1,772 @@
+{
+  "allowList": [],
+  "disallowList": [],
+  "collections": [
+    {
+      "images_folder_url": "app:///Scripts/mostra/assets/scene/op_9/Image/",
+      "audio_folder_url": "app:///Scripts/mostra/assets/scene/op_9/Audio/",
+      "videos_folder_url": "app:///Scripts/mostra/assets/scene/op_9/Video/",
+      "pictures": [
+        {
+          "code": 54,
+          "pxa_id": 17,
+          "ra_id": 8,
+          "name": "Lorem ipsum dolor",
+          "width": 40,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 783,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 391,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 195,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/watch?v=hAPFPzfggcA&feature=emb_title",
+          "offset_x": -100,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": true,
+          "enable_light": true,
+          "action": {
+            "code": "none",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 54,
+          "pxa_id": 18,
+          "ra_id": 9,
+          "name": "",
+          "width": 50,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce03935985f.jpeg",
+              "width": 1000,
+              "height": 738,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce03935985f.jpeg",
+              "width": 500,
+              "height": 369,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce03935985f.jpeg",
+              "width": 250,
+              "height": 184,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "",
+          "offset_x": 100,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": true,
+          "enable_light": true,
+          "action": {
+            "code": "none",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 8,
+          "pxa_id": 20,
+          "ra_id": 11,
+          "name": "AAA",
+          "width": 30,
+          "height": 50,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 697,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 348,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 174,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/embed/hAPFPzfggcA",
+          "offset_x": -100,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": true,
+          "enable_light": true,
+          "action": {
+            "code": "info",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 77,
+          "pxa_id": 24,
+          "ra_id": 11,
+          "name": "AAA",
+          "width": 30,
+          "height": 50,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 697,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 348,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 174,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/embed/hAPFPzfggcA",
+          "offset_x": -100,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": true,
+          "enable_light": true,
+          "action": {
+            "code": "info",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 17,
+          "pxa_id": 25,
+          "ra_id": 8,
+          "name": "Lorem ipsum dolor",
+          "width": 40,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 783,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 391,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 195,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/watch?v=hAPFPzfggcA&feature=emb_title",
+          "offset_x": 0,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": true,
+          "enable_light": true,
+          "action": {
+            "code": "none",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 90,
+          "pxa_id": 33,
+          "ra_id": 9,
+          "name": "",
+          "width": 50,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce03935985f.jpeg",
+              "width": 1000,
+              "height": 738,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce03935985f.jpeg",
+              "width": 500,
+              "height": 369,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce03935985f.jpeg",
+              "width": 250,
+              "height": 184,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "",
+          "offset_x": 0,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": false,
+          "enable_light": true,
+          "action": {
+            "code": "audio",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 90,
+          "pxa_id": 34,
+          "ra_id": 8,
+          "name": "Lorem ipsum dolor",
+          "width": 40,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 783,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 391,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 195,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/watch?v=hAPFPzfggcA&feature=emb_title",
+          "offset_x": 0,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": false,
+          "enable_light": true,
+          "action": {
+            "code": "audio",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": "2",
+              "name": null,
+              "description": null,
+              "filename": "2020/12/5fd3b8b37cf01.mp3"
+            }
+          }
+        },
+        {
+          "code": 1,
+          "pxa_id": 36,
+          "ra_id": 8,
+          "name": "Lorem ipsum dolor",
+          "width": 40,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 783,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 391,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 195,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/watch?v=hAPFPzfggcA&feature=emb_title",
+          "offset_x": 0,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-001",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": false,
+          "enable_light": true,
+          "action": {
+            "code": "jumpShowInfo",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": "3",
+              "name": null,
+              "description": null,
+              "filename": "2020/12/5fd892ed84d19.mp3"
+            }
+          }
+        },
+        {
+          "code": 8,
+          "pxa_id": 19,
+          "ra_id": 10,
+          "name": "",
+          "width": 50,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce03aa48847.jpeg",
+              "width": 1000,
+              "height": 738,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce03aa48847.jpeg",
+              "width": 500,
+              "height": 369,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce03aa48847.jpeg",
+              "width": 250,
+              "height": 184,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "",
+          "offset_x": 100,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-002",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": true,
+          "enable_light": true,
+          "action": {
+            "code": "jumpNoInfo",
+            "jump": {
+              "id": null,
+              "code": null,
+              "pavilion": null
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 18,
+          "pxa_id": 28,
+          "ra_id": 11,
+          "name": "AAA",
+          "width": 30,
+          "height": 50,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 697,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 348,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce03d6c35f4.jpeg",
+              "width": 174,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/embed/hAPFPzfggcA",
+          "offset_x": 0,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-002",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": true,
+          "enable_light": true,
+          "action": {
+            "code": "info",
+            "jump": {
+              "id": "4",
+              "code": "P3",
+              "pavilion": "1"
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        },
+        {
+          "code": 15,
+          "pxa_id": 21,
+          "ra_id": 8,
+          "name": "Lorem ipsum dolor",
+          "width": 40,
+          "height": 30,
+          "image": {
+            "high": {
+              "folder": "h\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 783,
+              "height": 1000,
+              "type": 2
+            },
+            "medium": {
+              "folder": "m\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 391,
+              "height": 500,
+              "type": 2
+            },
+            "low": {
+              "folder": "l\\/",
+              "file": "2020/12/5fce0381ce97c.jpeg",
+              "width": 195,
+              "height": 250,
+              "type": 2
+            }
+          },
+          "video": "",
+          "audio": "",
+          "link": "https://www.youtube.com/watch?v=hAPFPzfggcA&feature=emb_title",
+          "offset_x": 100,
+          "offset_y": 0,
+          "frame": {
+            "code": "frame-003",
+            "color": "#FFFFFF",
+            "rotation": {
+              "offset": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          },
+          "enable_lod": false,
+          "enable_light": true,
+          "action": {
+            "code": "info",
+            "jump": {
+              "id": "1",
+              "code": "P1",
+              "pavilion": "1"
+            },
+            "video": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            },
+            "audio": {
+              "id": null,
+              "name": null,
+              "description": null,
+              "filename": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

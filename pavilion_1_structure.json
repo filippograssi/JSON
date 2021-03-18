@@ -1,0 +1,4909 @@
+{
+  "mode": "build",
+  "skybox": {
+    "enable": true,
+    "directory": "app:///Scripts/mostra/assets/scene/default/",
+    "prefix": "default"
+  },
+  "pictureLight": {
+    "code": "stand-light",
+    "position": {
+      "offset": {
+        "x": -0.076,
+        "y": 0.952,
+        "z": 0
+      }
+    },
+    "rotation": {
+      "offset": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0
+      }
+    }
+  },
+  "accessories": [],
+  "walls": [
+    {
+      "id": 3777,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 10,
+        "offset": {
+          "x": -1.27,
+          "y": 0,
+          "z": -0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3778,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": -10.000000000000002,
+        "offset": {
+          "x": 1.27,
+          "y": 0,
+          "z": 0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3779,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -10.000000000000002,
+        "y": 0,
+        "z": -10.000000000000002,
+        "offset": {
+          "x": 1.27,
+          "y": 0,
+          "z": 0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3780,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -5,
+        "y": 0,
+        "z": 10,
+        "offset": {
+          "x": -1.27,
+          "y": 0,
+          "z": -0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3781,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 5,
+        "y": 0,
+        "z": 10,
+        "offset": {
+          "x": -1.27,
+          "y": 0,
+          "z": -0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3782,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -10.000000000000002,
+        "y": 0,
+        "z": 10,
+        "offset": {
+          "x": -1.27,
+          "y": 0,
+          "z": -0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3783,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 5,
+        "y": 0,
+        "z": -10.000000000000002,
+        "offset": {
+          "x": 1.27,
+          "y": 0,
+          "z": 0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3784,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -5,
+        "y": 0,
+        "z": -10.000000000000002,
+        "offset": {
+          "x": 1.27,
+          "y": 0,
+          "z": 0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3785,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 10,
+        "y": 0,
+        "z": 10,
+        "offset": {
+          "x": -1.27,
+          "y": 0,
+          "z": -0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3786,
+      "type": "building",
+      "code": "building-wall",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 10,
+        "y": 0,
+        "z": -10.000000000000002,
+        "offset": {
+          "x": 1.27,
+          "y": 0,
+          "z": 0.25
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3787,
+      "type": "building",
+      "code": "building-wall-l",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -15.000000000000002,
+        "y": 0,
+        "z": -10.000000000000002,
+        "offset": {
+          "x": -0.2,
+          "y": 0,
+          "z": -0.2
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 4.71238898038469,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3788,
+      "type": "building",
+      "code": "building-wall-l",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -15.000000000000002,
+        "y": 0,
+        "z": 10,
+        "offset": {
+          "x": -0.2,
+          "y": 0,
+          "z": 0.2
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3789,
+      "type": "building",
+      "code": "building-wall-l",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 15,
+        "y": 0,
+        "z": -10.000000000000002,
+        "offset": {
+          "x": 0.2,
+          "y": 0,
+          "z": -0.2
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3790,
+      "type": "building",
+      "code": "building-wall-l",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 15,
+        "y": 0,
+        "z": 10,
+        "offset": {
+          "x": 0.2,
+          "y": 0,
+          "z": 0.2
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 1.5707963267948966,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3791,
+      "type": "building",
+      "code": "building-wall-window",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -15.000000000000002,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": -2.5
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3792,
+      "type": "building",
+      "code": "building-wall-window",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -15.000000000000002,
+        "y": 0,
+        "z": 5,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": -2.5
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3793,
+      "type": "building",
+      "code": "building-wall-window",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": -15.000000000000002,
+        "y": 0,
+        "z": -5.000000000000002,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": -2.5
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 3.141592653589793,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3794,
+      "type": "building",
+      "code": "building-wall-window",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 15,
+        "y": 0,
+        "z": -5.000000000000002,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 2.5
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3795,
+      "type": "building",
+      "code": "building-wall-window",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 15,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 2.5
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    },
+    {
+      "id": 3796,
+      "type": "building",
+      "code": "building-wall-window",
+      "codeDefined": false,
+      "enableCollisions": true,
+      "position": {
+        "x": 15,
+        "y": 0,
+        "z": 5,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 2.5
+        }
+      },
+      "scaling": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "offset": {
+          "x": 0,
+          "y": 0,
+          "z": 0
+        }
+      },
+      "appendPoints": []
+    }
+  ],
+  "stands": {
+    "walls": [
+      {
+        "id": 3729,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -8.000000000000002,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 1,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 49,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3730,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -6,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 2,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 50,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3731,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -9.000000000000002,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 3,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 51,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3732,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -5,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 4,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 52,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3733,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 10,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 5,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 53,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3734,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -7,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 6,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 54,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3735,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -12.000000000000002,
+          "y": 0,
+          "z": 6,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 7,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 55,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3736,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -12.000000000000002,
+          "y": 0,
+          "z": 5,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 8,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 56,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3737,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -12.000000000000002,
+          "y": 0,
+          "z": 4,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 9,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 57,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3738,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -12.000000000000002,
+          "y": 0,
+          "z": -6.000000000000002,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 10,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 58,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3739,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -12.000000000000002,
+          "y": 0,
+          "z": -5.000000000000002,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 11,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 59,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3741,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -11.000000000000002,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 12,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 60,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3742,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -10.000000000000002,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 13,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 61,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3744,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -8.000000000000002,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 14,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 62,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3745,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -7,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 15,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 63,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3746,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -6,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 16,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 64,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3749,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -11.000000000000002,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 17,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 65,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3750,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -10.000000000000002,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 18,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 66,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3753,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 5,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 19,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 67,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3754,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 6,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 20,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 68,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3755,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 7,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 21,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 69,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3756,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 8,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 22,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 70,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3757,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 9,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 23,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 71,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3758,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 11,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 24,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 72,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3759,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": -6.000000000000002,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 25,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 73,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3760,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": -5.000000000000002,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 26,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 74,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3761,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": -4.000000000000002,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 27,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 75,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3762,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": 4,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 28,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 76,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3763,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": 5,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 29,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 77,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3764,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": 6,
+          "offset": {
+            "x": -0.0579,
+            "y": 0,
+            "z": 0.508
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 30,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 78,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3766,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 5,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 31,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 79,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3767,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 6,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 32,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 80,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3768,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 7,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 33,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 81,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3769,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 8,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 34,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 82,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3770,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 9,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 35,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 83,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3771,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 10,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 36,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 84,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3772,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 11,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 37,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 85,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3773,
+        "type": "stand",
+        "code": "stand-wall-l",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -12.000000000000002,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.058,
+            "y": 0,
+            "z": -0.5079
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 4.71238898038469,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": []
+      },
+      {
+        "id": 3774,
+        "type": "stand",
+        "code": "stand-wall-l",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -12.000000000000002,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": 0.5079,
+            "y": 0,
+            "z": -0.058
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 3.141592653589793,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": []
+      },
+      {
+        "id": 3775,
+        "type": "stand",
+        "code": "stand-wall-l",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": 0.058,
+            "y": 0,
+            "z": 0.5079
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 1.5707963267948966,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": []
+      },
+      {
+        "id": 3776,
+        "type": "stand",
+        "code": "stand-wall-l",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 12,
+          "y": 0,
+          "z": 7,
+          "offset": {
+            "x": -0.5079,
+            "y": 0,
+            "z": 0.058
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": []
+      },
+      {
+        "id": 3863,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -5,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 38,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 86,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3864,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -9.000000000000002,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 39,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 87,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3865,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -4,
+          "y": 0,
+          "z": -7.000000000000002,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 40,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 88,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3868,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -3,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 41,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 89,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3869,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -2,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 42,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 90,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3870,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": -1,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 43,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 91,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3871,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 44,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 92,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3872,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 1,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 45,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 93,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3873,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 2,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 46,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 94,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3874,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 3,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 47,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 95,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 3875,
+        "type": "stand",
+        "code": "stand-wall",
+        "codeDefined": false,
+        "enableCollisions": true,
+        "position": {
+          "x": 4,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": -0.508,
+            "y": 0,
+            "z": -0.0579
+          }
+        },
+        "scaling": {
+          "x": 1,
+          "y": 1,
+          "z": 1
+        },
+        "rotation": {
+          "x": 0,
+          "y": 0,
+          "z": 0,
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        },
+        "appendPoints": [
+          {
+            "code": 48,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0.115998
+            },
+            "rotation": {
+              "x": 0,
+              "y": 3.14159,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": 1.616
+              },
+              "rotation": {
+                "x": 0,
+                "y": 90,
+                "z": 0
+              }
+            }
+          },
+          {
+            "code": 96,
+            "position": {
+              "x": 0.508,
+              "y": 1.5,
+              "z": 0
+            },
+            "rotation": {
+              "x": 0,
+              "y": 0,
+              "z": 0
+            },
+            "view": {
+              "position": {
+                "x": 0.508,
+                "y": 1.5,
+                "z": -1.5
+              },
+              "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "camera": {
+    "points": []
+  },
+  "floor": {
+    "blocks": {
+      "primary": {
+        "code": "building-floor",
+        "position": {
+          "offset": {
+            "x": -2.5,
+            "y": 0,
+            "z": 2.5
+          }
+        },
+        "rotation": {
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      }
+    },
+    "pattern": "default",
+    "width": 30,
+    "length": 20,
+    "height": 0
+  },
+  "roof": {
+    "blocks": {
+      "primary": {
+        "code": "building-roof",
+        "position": {
+          "offset": {
+            "x": -2.5,
+            "y": 0,
+            "z": 2.5
+          }
+        },
+        "rotation": {
+          "offset": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          }
+        }
+      }
+    },
+    "pattern": "default",
+    "width": 30,
+    "length": 20,
+    "height": 7.349
+  }
+}
